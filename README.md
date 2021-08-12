@@ -9,5 +9,7 @@ kvnlee's toolkit for creating and managing files for NFTs. This toolkit uploads 
 npm install
 ```
 ### Environment variables
+
 PINATA_API_KEY = `Your Pinata API key`
+
 PINATA_API_SECRET = `Your Pinata API key`
