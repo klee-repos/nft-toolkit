@@ -1,6 +1,6 @@
 ## NFT Toolkit
 
-kvnlee's toolkit for creating and managing files for NFTs. This toolkit uploads all related NFT files to [IPFS](https://ipfs.io/) using [Pinanta](https://www.pinata.cloud/)
+kvnlee's toolkit for creating and managing NFTs. This toolkit uploads all related NFT files to [IPFS](https://ipfs.io/) using [Pinanta](https://www.pinata.cloud/)
 
 ## Installation
 
